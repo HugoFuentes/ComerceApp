@@ -1,0 +1,86 @@
+#body {
+    overflow: hidden;
+}
+
+.top {
+    background-image: linear-gradient(90deg,#031fc6,#8bda5a);
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.head {
+
+    background-image: url(mujer.jpg);
+    background-size: cover;
+    padding-top: 125px;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    
+    
+
+}
+
+#h1{
+    
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 48px;
+/* identical to box height */
+padding-left: 0;
+color: #1D42B1;
+text-align: left;
+padding-bottom: 3.0rem;
+}
+
+.h5{
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 0;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: white;
+}
+li.nav-item:hover {
+    border-top: 3px solid white;
+}
+a.nav-link {
+    padding: 20px;
+}
+
+.a {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.row {
+    background: radial-gradient(790.00px at 48.46% 50%, #FFFFFF 0%, #EEF2F6 100%);
+}
+
+.h1 .row{
+    font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 41px;
+
+color: #4A4A4A;
+
+}
+
+.fondo .row {
+    background: #1335B9;
+}
+
+.wrap {
+    padding-right: 3rem;
+}

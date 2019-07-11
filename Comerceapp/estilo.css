@@ -1,0 +1,299 @@
+#body {
+    overflow: hidden;
+}
+
+.top {
+    background-image: linear-gradient(90deg,#031fc6,#8bda5a);
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.head {
+
+    background: url(bg-header.png);
+    padding-top: 125px;
+    background-size: cover;
+    overflow: hidden;
+
+
+}
+
+.li {
+    padding right: 2rem;
+}
+
+.header {
+    overflow: hidden;
+}
+.container {
+    overflow: hidden;
+}
+.head h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 85px;
+    color: white;
+    padding-top: 25px;
+    font-style: normal;
+    margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+
+}
+.head p {
+    color: white;
+    padding-top: 20px;
+    font-size: 18px;
+    text-align: left;
+    line-height: 25px;
+    font-weight: 600;
+}
+.navbar {
+    padding: 0;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: white;
+}
+li.nav-item:hover {
+    border-top: 3px solid white;
+}
+a.nav-link {
+    padding: 20px;
+}
+
+#parte1{
+    
+    left: 13.96%;
+    right: 54.24%;
+    top: 17.98%;
+    bottom: 78.03%;
+}
+
+#parte1,
+#parte3{
+    background-color: #1D42B1;
+    padding: 125px 0;
+}
+#parte2 {
+    background-color: #88D65C;
+    padding: 125px 0;
+}
+
+.parte-content {
+    padding-right: 150px;
+    padding-top: 170px;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+p {
+font-family: open sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+text-align: justify;
+
+color: #FFFFFF;
+}
+
+.blue{
+    color: #1335B9;
+}
+
+.local {
+    left: 51.19%;
+right: -4.52%;
+top: 14.24%;
+bottom: 74.23%;
+
+background: #B6C5CE;
+}
+
+#sales {
+    background: #F5F5F5;
+}
+
+.sales-contenido {
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-right: 75px;
+}
+
+.sales-contenido span.subtitle {
+    display: block;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 6.66667px;
+    text-transform: uppercase;
+    color: #B3B3B3;
+}
+
+.sales-contenido span.title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #4A4A4A;
+}
+
+.sales-contenido p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #4A4A4A;   
+}
+.sales-contenido a {
+    background: #88D65C;
+    padding: 10px 45px;
+    color: white;
+    border-radius: 5px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+#faq {
+    padding: 125px 0;
+}
+h3 {
+    color: #1335B9;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+span.intro {
+    margin-bottom: 50px;
+    display: block;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #9B9B9B;
+}
+
+#card-body {
+    text-align: justify;
+}
+
+.card {
+    border: 0px;
+}
+.card-header {
+    background: white;
+    color: black;
+}
+
+.py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.px-2 {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+.items-center {
+    align-items: center;
+}
+.flex-col {
+    flex-direction: column;
+}
+.flex {
+    display: flex;
+}
+.bg-gray-200 {
+    background-color: #f5f5f5;
+}
+
+
+.input-Nombre{
+    color: #1d42b1
+}
+
+.w-full {
+    width: 65%;
+
+}
+
+.form-row {
+    padding-left: 1.0rem;
+    padding-right: 1.5rem;
+    margin-bottom: 2.5rem;
+    font-weight: 700;
+    color: #1335B9;
+}
+
+.py-8 {
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+.bg-black {
+
+    background-color: #000;
+
+}
+
+.text-white {
+    color: white;
+}
+
+.fill-current {
+    fill: currentColor;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
+}
+
+.xl\:text-left {
+    text-align: left;
+}
+.xl\:flex-row {
+    flex-direction: row;
+}
+
+.text-gray-500{
+    color: #BCBCBC;
+}
+
+.text-gray-600{
+    color: #BCBCBC;
+}
+
+.form-fluid {
+    overflow: hidden;
+}
+
+.fluid {
+    overflow: hidden;
+}
